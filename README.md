@@ -9,4 +9,4 @@ Web Scraping is the technique of extracting large amounts of data from websites.
 BeautifulSoup is a Python Web scraping library for pulling data out and parsing of HTML or XML files. 
 
 
-Ref. https://www.gutenberg.org/
+The website Project Gutenberg: https://www.gutenberg.org/
