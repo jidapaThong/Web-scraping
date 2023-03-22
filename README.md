@@ -1,7 +1,5 @@
 # Web-scraping
-This is a project that practice to scrape a novel named "Peter and Wendy" from the website Project Gutenberg using Python package requests. Ref. https://www.gutenberg.org/
-Extracting words from this web using BeautifulSoup. 
-Analyzing the distribution of words using the Natural Language ToolKit (nltk).
+This is a project that practicing to scrape a novel named "Peter and Wendy" from the website Project Gutenberg using Python package requests then extracting words from this web using BeautifulSoup and analyzing the distribution of words using the Natural Language ToolKit (nltk).
 
 Question: What are the most frequent 20 words in the novel Peter and Wendy and how often do they occur?
 Answer: Most frequent 20 words:  
@@ -9,3 +7,6 @@ Answer: Most frequent 20 words:
 
 Web Scraping is the technique of extracting large amounts of data from websites.
 BeautifulSoup is a Python Web scraping library for pulling data out and parsing of HTML or XML files. 
+
+
+Ref. https://www.gutenberg.org/
